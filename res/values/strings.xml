@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StudentContent</string>
+    <string name="hello_world">欢迎来到学生管理系统</string>
+    <string name="action_settings">Settings\n</string>
+
+</resources>
